@@ -1,4 +1,14 @@
 # Credit Card Default Rate Fairness Project
+- project for Algorithmic Fairness course at ITU
+- requires at least python 3.10
+
+## Setup Environment
+install poetry with `curl -sSL https://install.python-poetry.org | python3 -`
+1. Run `poetry install`
+2. if the environment is not automatically activating, run `poetry shell`
+
+
+- You can always bypass pre-commit hooks with the --no-verify flag to the git commit command
 
 
 ## Dataset information
