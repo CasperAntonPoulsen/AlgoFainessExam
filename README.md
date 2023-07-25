@@ -1,4 +1,4 @@
-# Credit Card Default Rate Fairness Project
+# De-biasing Student Performance Data
 - project for Algorithmic Fairness course at ITU
 - requires at least python 3.10
 
@@ -8,10 +8,6 @@ install poetry with `curl -sSL https://install.python-poetry.org | python3 -`
 2. if the environment is not automatically activating, run `poetry shell`
 
 ## Dataset information
-
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005
-
-### Content
 
 There are 33 variables:
 
